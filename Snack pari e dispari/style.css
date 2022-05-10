@@ -1,0 +1,14 @@
+main {
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+}
+
+#pari {
+    color: green;
+    margin-right: 50px;
+}
+
+#dispari {
+    color: red;
+}
